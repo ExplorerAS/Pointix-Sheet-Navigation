@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
     paths:
-      - ".github/release-trigger-1.1.0"
+      - ".github/release-trigger-1.1.1"
 
 permissions:
   contents: write
@@ -20,12 +20,12 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          if gh release view "1.1.0" >/dev/null 2>&1; then
-            echo "Release 1.1.0 already exists."
+          if gh release view "1.1.1" >/dev/null 2>&1; then
+            echo "Release 1.1.1 already exists."
             exit 0
           fi
-          gh release create "1.1.0" \
+          gh release create "1.1.1" \
             main.js manifest.json styles.css \
-            --title "Pointix Sheet Navigation v1.1.0" \
-            --notes "Stable release. Touch/pen pan navigation plus Alt/Option + left-drag navigation on desktop." \
+            --title "Pointix Sheet Navigation v1.1.1" \
+            --notes "Fixes a packaging syntax error in the BRAT-distributed main.js. Navigation behavior is unchanged from the tested stable v1.1.0 implementation." \
             --target main

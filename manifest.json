@@ -1,9 +1,10 @@
 {
   "id": "pointix-sheet-navigation",
   "name": "Pointix Sheet Navigation",
-  "version": "1.1.1",
-  "minAppVersion": "1.5.0",
-  "description": "Touch/pen navigation for Sheet Plus plus Alt + left-drag panning on PC/laptop.",
+  "version": "1.1.2",
+  "minAppVersion": "1.13.7",
+  "description": "Pan Sheet Plus spreadsheets with touch or pen, or Alt/Option + left-drag on desktop.",
   "author": "Pointix",
-  "isDesktopOnly": false
+  "isDesktopOnly": false,
+  "authorUrl": "https://github.com/ExplorerAS"
 }

@@ -79,3 +79,37 @@ https://github.com/ExplorerAS/Pointix-Sheet-Copy
 ---
 
 Built to make Sheet Plus easier to navigate without getting in the way.
+
+
+## Public beta
+
+This plugin is available as a public beta through **BRAT**.
+
+### Install with BRAT
+
+1. Install and enable **BRAT** in Obsidian.
+2. Open **Settings → BRAT**.
+3. Under **Beta plugin list**, click **+**.
+4. Paste this repository URL:
+
+```
+https://github.com/ExplorerAS/Pointix-Sheet-Navigation
+```
+
+5. Click **Add Plugin**.
+6. Keep BRAT auto-update enabled if you want beta updates automatically.
+
+Current tested release: **1.1.1**
+
+Release page: https://github.com/ExplorerAS/Pointix-Sheet-Navigation/releases/tag/1.1.1
+
+### Beta feedback wanted
+
+Real-world reports are especially useful from:
+- macOS / MacBook
+- iPhone / iPad
+- Windows touch laptops
+- Android tablets
+- stylus / pen devices
+
+Please open a GitHub issue with your device, OS, Obsidian version, Sheet Plus version, and a short screen recording if the behavior is visual.

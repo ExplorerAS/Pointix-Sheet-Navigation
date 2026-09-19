@@ -113,3 +113,8 @@ Real-world reports are especially useful from:
 - stylus / pen devices
 
 Please open a GitHub issue with your device, OS, Obsidian version, Sheet Plus version, and a short screen recording if the behavior is visual.
+
+
+## License
+
+Released under the MIT License. See [LICENSE](./LICENSE).

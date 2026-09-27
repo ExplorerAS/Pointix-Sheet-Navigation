@@ -4,7 +4,7 @@ A lightweight companion plugin for **Obsidian + Sheet Plus** that improves sprea
 
 ## Stable version
 
-**v1.1.0**
+**v1.1.2**
 
 ### Touch / pen
 - Drag to pan the sheet.
@@ -60,60 +60,29 @@ Designed for:
 
 Input routing uses Pointer Events (`mouse`, `touch`, `pen`) rather than only OS detection.
 
-## Feedback
+## Support
 
-If you find a problem, please open an issue and include:
-- device
-- operating system
-- Obsidian version
-- Sheet Plus version
-- expected behavior
-- actual behavior
-- a short screen recording when useful
+If you find a problem, you can:
+
+- Email **[servicios.globix@gmail.com](mailto:servicios.globix@gmail.com)**.
+- Open a [GitHub issue](https://github.com/ExplorerAS/Pointix-Sheet-Navigation/issues).
+
+Please include the device, operating system, Obsidian version, Sheet Plus version, expected behavior, actual behavior, and a short screen recording when useful. Please do not include passwords, tokens, private notes, or entire vaults in support requests.
+
+## Support development
+
+If Pointix Sheet Navigation is useful to you, you can voluntarily support its development:
+
+**Ko-fi:** https://ko-fi.com/exprorerit
+
+Support does not unlock features and is not required to use the plugin.
 
 ## Related project
 
 **Pointix Sheet Copy**  
 https://github.com/ExplorerAS/Pointix-Sheet-Copy
 
----
-
-Built to make Sheet Plus easier to navigate without getting in the way.
-
-
-## Public beta
-
-This plugin is available as a public beta through **BRAT**.
-
-### Install with BRAT
-
-1. Install and enable **BRAT** in Obsidian.
-2. Open **Settings → BRAT**.
-3. Under **Beta plugin list**, click **+**.
-4. Paste this repository URL:
-
-```
-https://github.com/ExplorerAS/Pointix-Sheet-Navigation
-```
-
-5. Click **Add Plugin**.
-6. Keep BRAT auto-update enabled if you want beta updates automatically.
-
-Current tested release: **1.1.1**
-
-Release page: https://github.com/ExplorerAS/Pointix-Sheet-Navigation/releases/tag/1.1.1
-
-### Beta feedback wanted
-
-Real-world reports are especially useful from:
-- macOS / MacBook
-- iPhone / iPad
-- Windows touch laptops
-- Android tablets
-- stylus / pen devices
-
-Please open a GitHub issue with your device, OS, Obsidian version, Sheet Plus version, and a short screen recording if the behavior is visual.
-
+Pointix Sheet Copy is optional. Navigation remains focused on moving around Sheet Plus sheets, while Copy provides dedicated clipboard tools.
 
 ## License
 
